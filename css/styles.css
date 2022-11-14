@@ -43,7 +43,7 @@ main p{
 }
 
 main .boton{
-    background-color: #51b0df;
+    background-color: black;
     color: whitesmoke;
     padding: 0.7rem;
     box-shadow: 1px 1px 5px black;
